@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KlikkerAndTT" parent="Theme.Material3.DayNight.NoActionBar">
+       <item name="colorPrimary">@color/Grey</item>
+        <item name="colorPrimaryDark">@color/Blacky</item>
+        <item name="android:windowBackground">@color/DarkGrey</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+
+    <style name="ImageBtn" parent="Theme.AppCompat.DayNight">
+        <item name="tint">@android:color/white</item>
+    </style>
+</resources>
